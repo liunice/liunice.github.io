@@ -5,7 +5,7 @@ var store = [{
         "url": "http://localhost:4000/jekyll/welcome-to-jekyll",
         "teaser":null},{
         "title": "Hello world!",
-        "excerpt":"Hello world, this is my first Jekyll blog post. I hope you like it! Posts jekyll Welcome to Jekyll! free-talk I love you 3000 times! We are friends now Is that you? I'm fine, thank you! Hello world! Page Tags Jekyll Hello World Exerpt Hello world, this is my first...","categories": ["free-talk"],
+        "excerpt":"Hello world, this is my first Jekyll blog post. I hope you like it! Posts jekyll Welcome to Jekyll! free-talk I love you 3000 times! We are friends now Is that you? I'm fine, thank you! Hello world! mobile-development Hi, Android developers! Hi, iOS developers! front-end-development Hi, front-end developers! back-end-development...","categories": ["free-talk"],
         "tags": ["Jekyll","Hello World"],
         "url": "http://localhost:4000/free-talk/hello-world",
         "teaser":null},{
@@ -28,6 +28,26 @@ var store = [{
         "excerpt":"I mean it!  ","categories": ["free-talk"],
         "tags": [],
         "url": "http://localhost:4000/free-talk/i-love-you-3000-times",
+        "teaser":null},{
+        "title": "Hi, iOS developers!",
+        "excerpt":"You are welcome.  ","categories": ["mobile-development"],
+        "tags": [],
+        "url": "http://localhost:4000/mobile-development/hi-ios-developers",
+        "teaser":null},{
+        "title": "Hi, Android developers!",
+        "excerpt":"You are welcome.  ","categories": ["mobile-development"],
+        "tags": [],
+        "url": "http://localhost:4000/mobile-development/hi-android-developers",
+        "teaser":null},{
+        "title": "Hi, front-end developers!",
+        "excerpt":"You are welcome.  ","categories": ["front-end-development"],
+        "tags": [],
+        "url": "http://localhost:4000/front-end-development/hi-front-end-developers",
+        "teaser":null},{
+        "title": "Hi, back-end developers!",
+        "excerpt":"You are welcome.  ","categories": ["back-end-development"],
+        "tags": [],
+        "url": "http://localhost:4000/back-end-development/hi-back-end-developers",
         "teaser":null},{
         "title": "Jane",
         "excerpt":"Jane has worked on Jekyll for the past five years.  ","categories": [],
