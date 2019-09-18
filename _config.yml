@@ -30,7 +30,7 @@ twitter_username: liunicer
 github_username:  liunice
 
 # theme
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 remote_theme: mmistakes /minimal-mistakes-jekyll
 minimal_mistakes_skin: dark
 locale: en-US
