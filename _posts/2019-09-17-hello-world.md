@@ -1,11 +1,10 @@
 ---
-layout: post
+layout: single
 title: "Hello world!"
 date: 2019-09-17 13:08:02 +0800
 categories: free-talk
 tags: [Jekyll, "Hello World"]
 excerpt_separator: <!--excerpt-->
-permalink: hello-world
 ---
 
 **Hello world**, this is my first Jekyll blog post.
@@ -53,3 +52,8 @@ I hope you like it!
 {% for myimage in image_files %}
   {{ myimage.path }}
 {% endfor %}
+
+# Link
+[Welcome to Jekyll]({% link _posts/2019-09-17-welcome-to-jekyll.md %})
+
+[Welcome to Jekyll]({% post_url 2019-09-17-welcome-to-jekyll %})

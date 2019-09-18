@@ -18,19 +18,47 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Thomas的游乐园
+title: "Thomas的游乐园"
+name: "liunice"
 email: liunice#gmail_com
+repository: "liunice/liunice.github.io"
 description: >- # this means to ignore newlines until "baseurl:"
-  分享关于移动开发、Web前端、后端开发的一些技术心得
+  "分享关于移动开发、Web前端、后端开发的一些技术心得"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://liunice.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: liunicer
 github_username:  liunice
 
-# Build settings
-theme: minima
+# theme
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: dark
+locale: en-US
+search: true
+paginate: 5
+breadcrumbs: true
+permalink: /:categories/:title
+author:
+  name: "刘洋"
+  avatar: "/assets/images/avatar-liunice.png"
+  bio: "关注移动App、Web前端、后端开发" # Note: Markdown is allowed
+  location: "深圳"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/liunicer"
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+title_separator: "|"
+
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 collections:
   staff_members:
@@ -41,6 +69,16 @@ defaults:
       path: "assets/images"
     values:
       image: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      # comments: true
+      share: true
+      related: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
