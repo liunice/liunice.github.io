@@ -29,9 +29,10 @@ url: "https://liunice.github.io" # the base hostname & protocol for your site, e
 twitter_username: liunicer
 github_username:  liunice
 
+destination: /Web/liunice.github.io
+
 # theme
-# theme: minimal-mistakes-jekyll
-remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: dark
 locale: en-US
 search: true
@@ -49,11 +50,21 @@ author:
       url: "https://twitter.com/liunicer"
 
 category_archive:
-  type: liquid
+  type: jekyll-archives
   path: /categories/
 tag_archive:
-  type: liquid
+  type: jekyll-archives
   path: /tags/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 title_separator: "|"
 
