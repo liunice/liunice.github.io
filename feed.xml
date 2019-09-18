@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-18T21:53:56+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Thomas的游乐园</title><subtitle>&quot;分享关于移动开发、Web前端、后端开发的一些技术心得&quot;</subtitle><author><name>刘洋</name></author><entry><title type="html">I love you 3000 times!</title><link href="http://localhost:4000/free-talk/i-love-you-3000-times" rel="alternate" type="text/html" title="I love you 3000 times!" /><published>2019-09-18T16:11:03+08:00</published><updated>2019-09-18T16:11:03+08:00</updated><id>http://localhost:4000/free-talk/i-love-you-3000-times</id><content type="html" xml:base="http://localhost:4000/free-talk/i-love-you-3000-times">&lt;p&gt;I mean it!&lt;/p&gt;</content><author><name>刘洋</name></author><summary type="html">I mean it!</summary></entry><entry><title type="html">We are friends now</title><link href="http://localhost:4000/free-talk/we-are-friends-now" rel="alternate" type="text/html" title="We are friends now" /><published>2019-09-18T16:09:18+08:00</published><updated>2019-09-18T16:09:18+08:00</updated><id>http://localhost:4000/free-talk/we-are-friends-now</id><content type="html" xml:base="http://localhost:4000/free-talk/we-are-friends-now">&lt;p&gt;From now on, let’s do what friends do.&lt;/p&gt;</content><author><name>刘洋</name></author><summary type="html">From now on, let’s do what friends do.</summary></entry><entry><title type="html">Is that you?</title><link href="http://localhost:4000/free-talk/yeah-it's-me" rel="alternate" type="text/html" title="Is that you?" /><published>2019-09-18T16:08:14+08:00</published><updated>2019-09-18T16:08:14+08:00</updated><id>http://localhost:4000/free-talk/yeah-it's-me</id><content type="html" xml:base="http://localhost:4000/free-talk/yeah-it's-me">&lt;p&gt;Yeah, it’s me!&lt;/p&gt;</content><author><name>刘洋</name></author><summary type="html">Yeah, it’s me!</summary></entry><entry><title type="html">I’m fine, thank you!</title><link href="http://localhost:4000/free-talk/i'm-fine-thank-you" rel="alternate" type="text/html" title="I'm fine, thank you!" /><published>2019-09-18T16:07:02+08:00</published><updated>2019-09-18T16:07:02+08:00</updated><id>http://localhost:4000/free-talk/i'm-fine-thank-you</id><content type="html" xml:base="http://localhost:4000/free-talk/i'm-fine-thank-you">&lt;p&gt;You are welcome.&lt;/p&gt;</content><author><name>刘洋</name></author><summary type="html">You are welcome.</summary></entry><entry><title type="html">Hello world!</title><link href="http://localhost:4000/free-talk/hello-world" rel="alternate" type="text/html" title="Hello world!" /><published>2019-09-17T13:08:02+08:00</published><updated>2019-09-17T13:08:02+08:00</updated><id>http://localhost:4000/free-talk/hello-world</id><content type="html" xml:base="http://localhost:4000/free-talk/hello-world">&lt;p&gt;&lt;strong&gt;Hello world&lt;/strong&gt;, this is my first Jekyll blog post.
+&lt;!--excerpt--&gt;
+I hope you like it!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/jekyll-logo-2x.png&quot; alt=&quot;Jekyll logo&quot; width=&quot;249px&quot; height=&quot;135px&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;posts&quot;&gt;Posts&lt;/h1&gt;
+
+&lt;h3&gt;jekyll&lt;/h3&gt;
+&lt;ul&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;/jekyll/welcome-to-jekyll&quot; target=&quot;_blank&quot;&gt;Welcome to Jekyll!&lt;/a&gt;&lt;/li&gt;
+    
+  &lt;/ul&gt;
+
+&lt;h3&gt;free-talk&lt;/h3&gt;
+&lt;ul&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;/free-talk/i-love-you-3000-times&quot; target=&quot;_blank&quot;&gt;I love you 3000 times!&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;/free-talk/we-are-friends-now&quot; target=&quot;_blank&quot;&gt;We are friends now&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;/free-talk/yeah-it's-me&quot; target=&quot;_blank&quot;&gt;Is that you?&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;/free-talk/i'm-fine-thank-you&quot; target=&quot;_blank&quot;&gt;I'm fine, thank you!&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;/free-talk/hello-world&quot; target=&quot;_blank&quot;&gt;Hello world!&lt;/a&gt;&lt;/li&gt;
+    
+  &lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;page-tags&quot;&gt;Page Tags&lt;/h1&gt;
+&lt;ul&gt;
+  
+    &lt;li&gt;Jekyll&lt;/li&gt;
+  
+    &lt;li&gt;Hello World&lt;/li&gt;
+  
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;exerpt&quot;&gt;Exerpt&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Hello world&lt;/strong&gt;, this is my first Jekyll blog post.&lt;/p&gt;
+
+&lt;h1 id=&quot;staff-members&quot;&gt;Staff Members&lt;/h1&gt;
+
+&lt;h4&gt;
+    &lt;a href=&quot;/staff_members/jane&quot;&gt;
+      Jane Doe - Developer
+    &lt;/a&gt;
+  &lt;/h4&gt;
+&lt;p&gt;&lt;p&gt;Jane has worked on Jekyll for the past &lt;em&gt;five years&lt;/em&gt;.&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;
+    &lt;a href=&quot;/staff_members/thomas&quot;&gt;
+      Thomas Liu - Founder
+    &lt;/a&gt;
+  &lt;/h4&gt;
+&lt;p&gt;&lt;p&gt;Thomas is the company founder and lead developer.&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;h1 id=&quot;images&quot;&gt;Images&lt;/h1&gt;
+
+&lt;p&gt;/assets/images/avatar-liunice.png&lt;/p&gt;
+
+&lt;p&gt;/assets/images/jekyll-logo-2x.png&lt;/p&gt;
+
+&lt;h1 id=&quot;link&quot;&gt;Link&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;/jekyll/welcome-to-jekyll&quot;&gt;Welcome to Jekyll&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/jekyll/welcome-to-jekyll&quot;&gt;Welcome to Jekyll&lt;/a&gt;&lt;/p&gt;</content><author><name>刘洋</name></author><category term="Jekyll" /><category term="Hello World" /><summary type="html">Hello world, this is my first Jekyll blog post.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/welcome-to-jekyll" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-09-17T11:10:48+08:00</published><updated>2019-09-17T11:10:48+08:00</updated><id>http://localhost:4000/jekyll/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/welcome-to-jekyll">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>刘洋</name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
