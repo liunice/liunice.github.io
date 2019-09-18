@@ -1,3 +1,9 @@
 main:
+  - title: "移动开发"
+    url: /categories/mobile-development
+  - title: "前端开发"
+    url: /categories/front-end-development
+  - title: "后台开发"
+    url: /categories/back-end-development
   - title: "About"
     url: /about

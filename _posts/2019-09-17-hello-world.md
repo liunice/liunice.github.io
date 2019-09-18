@@ -47,6 +47,13 @@ I hope you like it!
   <p>{{ staff_member.content | markdownify }}</p>
 {% endfor %}
 
+# Collections
+<ul>
+  {% for collection in site.collections %}
+    <li>{{ collection.label }}</li>
+  {% endfor %}
+</ul>
+
 # Images
 {% assign image_files = site.static_files | where: "image", true %}
 {% for myimage in image_files %}
