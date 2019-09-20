@@ -49,6 +49,26 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/back-end-development/hi-back-end-developers",
         "teaser":null},{
+        "title": "My first multilingual post",
+        "excerpt":"This is my first multilingual post.  ","categories": ["Jekyll"],
+        "tags": ["multilingual"],
+        "url": "http://localhost:4000/jekyll/my-first-multilingual-post",
+        "teaser":null},{
+        "title": "多语种贴子 NO.1",
+        "excerpt":"这是我的第一篇支持多语种的贴子。  ","categories": ["zh","Jekyll"],
+        "tags": ["multilingual"],
+        "url": "http://localhost:4000/zh/jekyll/my-first-multilingual-post",
+        "teaser":null},{
+        "title": "多语种贴子 NO.2",
+        "excerpt":"这是我的第二篇支持多语种的贴子。  ","categories": ["zh","Jekyll"],
+        "tags": ["multilingual"],
+        "url": "http://localhost:4000/zh/jekyll/my-second-multilingual-post",
+        "teaser":null},{
+        "title": "My second multilingual post",
+        "excerpt":"This is my second multilingual post.  ","categories": ["Jekyll"],
+        "tags": ["multilingual"],
+        "url": "http://localhost:4000/jekyll/my-second-multilingual-post",
+        "teaser":null},{
         "title": "Jane",
         "excerpt":"Jane has worked on Jekyll for the past five years.  ","categories": [],
         "tags": [],
