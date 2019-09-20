@@ -1,18 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Hi, Android developers]]></title>
+    <url>%2F2019%2F09%2Fhi-android-developers%2F</url>
+    <content type="text"><![CDATA[I’m here waiting for you~]]></content>
+      <categories>
+        <category>Mobile Development</category>
+        <category>Android Development</category>
+      </categories>
+      <tags>
+        <tag>Free Talk</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hi, iOS developers]]></title>
+    <url>%2F2019%2F09%2Fhi-ios-developers%2F</url>
+    <content type="text"><![CDATA[I’m here waiting for you~]]></content>
+      <categories>
+        <category>Mobile Development</category>
+        <category>iOS Development</category>
+      </categories>
+      <tags>
+        <tag>Free Talk</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hi, front-end developers]]></title>
     <url>%2F2019%2F09%2Fhi-front-end-developers%2F</url>
     <content type="text"><![CDATA[I’m here waiting for you~]]></content>
+      <categories>
+        <category>Front-end Development</category>
+        <category>CSS</category>
+        <category>JavaScript</category>
+      </categories>
+      <tags>
+        <tag>Free Talk</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[hi, this is my first post]]></title>
     <url>%2F2019%2F09%2Fhi-this-is-my-first-post%2F</url>
-    <content type="text"><![CDATA[I need to do some testing here.]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2019%2F09%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My First Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment Code HighlightingPython code1234def post_with_token(api_path, json): global api_token if not api_token: fetch_api_token()]]></content>
   </entry>
 </search>
