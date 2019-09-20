@@ -33,11 +33,12 @@ destination: /Web/liunice.github.io
 
 # theme
 theme: minimal-mistakes-jekyll
+# dark
 minimal_mistakes_skin: dark
 locale: en-US
 search: true
 paginate: 5
-breadcrumbs: true
+# breadcrumbs: true
 permalink: /:categories/:title
 author:
   name: "刘洋"
@@ -87,7 +88,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      # read_time: true
       # comments: true
       share: true
       related: true
