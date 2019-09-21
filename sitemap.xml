@@ -1,60 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>https://liunice.github.io/404.html</loc>
-    
-    <lastmod>2019-09-21T03:42:42.192Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://liunice.github.io/tags/index.html</loc>
-    
-    <lastmod>2019-09-21T03:42:20.075Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://liunice.github.io/categories/index.html</loc>
-    
-    <lastmod>2019-09-21T03:42:15.361Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://liunice.github.io/about/index.html</loc>
-    
-    <lastmod>2019-09-21T03:42:10.894Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://liunice.github.io/2019/09/hi-this-is-my-first-post/</loc>
-    
-    <lastmod>2019-09-21T03:35:58.498Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://liunice.github.io/2019/09/hi-ios-developers/</loc>
-    
-    <lastmod>2019-09-21T03:33:59.413Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://liunice.github.io/2019/09/hi-front-end-developers/</loc>
-    
-    <lastmod>2019-09-21T03:32:58.132Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://liunice.github.io/2019/09/hi-android-developers/</loc>
-    
-    <lastmod>2019-09-21T03:31:06.693Z</lastmod>
-    
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+        <loc>https://liunice.github.io/sitemap_zh-Hans.xml</loc>
+        <lastmod>2019-09-21T13-40-59+0800</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://liunice.github.io/en/sitemap.xml</loc>
+        <lastmod>2019-09-21T13-40-59+0800</lastmod>
+    </sitemap>
+</sitemapindex>
