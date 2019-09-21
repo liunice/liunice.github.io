@@ -383,6 +383,16 @@
 
           
             
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2019/09/hi-android-developers/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count valine-comment-count" data-xid="/2019/09/hi-android-developers/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -421,7 +431,12 @@
 
     
       <div>
-        <ul class="post-copyright">
+        <span id="2019/09/hi-android-developers/" class="leancloud_visitors" data-flag-title="大家好，安卓开发者们！">
+    <em class="post-meta-item-text">阅读量：</em>
+    <i class="leancloud-visitors-count">0</i>
+</span>
+
+<ul class="post-copyright">
   
     <i class="menu-item-icon fa fa-fw fa-language"></i>
     <a href="/en/2019/09/hi-android-developers/">Read this article in English</a>
@@ -500,6 +515,9 @@
 
           
 
+  
+    <div class="comments" id="comments">
+    </div>
   
 
 
@@ -777,6 +795,29 @@
 
 
 
+
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+
+  <script type="text/javascript">
+    var GUEST = ['nick','mail','link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item=>{
+      return GUEST.indexOf(item)>-1;
+    });
+    new Valine({
+        el: '#comments' ,
+        verify: false,
+        notify: false,
+        appId: 'plVyNV8IxWrf6FDgXB4F3Knb-gzGzoHsz',
+        appKey: 'TTEzsFWiH0iLh4XvGqPdbroS',
+        placeholder: 'Just go go',
+        avatar:'mp',
+        guest_info:guest,
+        pageSize:'10' || 10,
+        visitor: true // 阅读量统计
+    });
+  </script>
 
 
 
