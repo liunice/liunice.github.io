@@ -1,6 +1,5 @@
 ---
-title:
-  "{ title }": 
+title: 你好，Next.js
 tags:
   - Next.js
   - React
@@ -8,8 +7,7 @@ tags:
 categories:
   - 前端
   - Next.js
-date:
-  "{ date }":
+date: 2024-11-23 00:00:00
 ---
 
 ## 初识 Next.js
