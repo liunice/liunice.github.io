@@ -6,7 +6,7 @@ tags:
   - 博客搭建
 categories:
   - 闲聊
-date: 2024-11-23 00:00:00
+date: 2024-11-23 14:00:00
 ---
 
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
