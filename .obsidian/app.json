@@ -7,5 +7,6 @@
     "public/"
   ],
   "newFileLocation": "folder",
-  "newFileFolderPath": "source/_posts"
+  "newFileFolderPath": "source/_posts",
+  "spellcheck": false
 }
