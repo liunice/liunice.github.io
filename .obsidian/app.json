@@ -1,0 +1,11 @@
+{
+  "userIgnoreFilters": [
+    "node_modules/",
+    "node_modules.nosync/",
+    "themes/",
+    "scaffolds/",
+    "public/"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "source/_posts"
+}
