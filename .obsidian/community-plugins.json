@@ -1,4 +1,11 @@
 [
   "obsidian-git",
-  "file-tree-alternative"
+  "file-tree-alternative",
+  "insert-unsplash-image",
+  "obsidian-image-auto-upload-plugin",
+  "oz-clear-unused-images",
+  "editing-toolbar",
+  "url-into-selection",
+  "obsidian-excalidraw-plugin",
+  "obsidian-linter"
 ]

@@ -4,9 +4,12 @@
     "node_modules.nosync/",
     "themes/",
     "scaffolds/",
-    "public/"
+    "public/",
+    "source/assets"
   ],
   "newFileLocation": "folder",
   "newFileFolderPath": "source/_posts",
-  "spellcheck": false
+  "spellcheck": false,
+  "attachmentFolderPath": "source/assets",
+  "promptDelete": false
 }
