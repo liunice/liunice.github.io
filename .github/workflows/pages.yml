@@ -19,6 +19,8 @@ jobs:
         run: |
           sed -i "s/\${VALINE_APP_ID}/${{ secrets.VALINE_APP_ID }}/g" _config.next.yml
           sed -i "s/\${VALINE_APP_KEY}/${{ secrets.VALINE_APP_KEY }}/g" _config.next.yml
+      - name: Check _config.next.yml
+        run: cat _config.next.yml
       - uses: pnpm/action-setup@v4
       - uses: actions/setup-node@v4
         with:
