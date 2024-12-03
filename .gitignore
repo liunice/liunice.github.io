@@ -6,8 +6,10 @@ node_modules/
 public/
 .deploy*/
 _multiconfig.yml
-_config.next.yml
-_config.icarus.yml
+_config.next.temp.yml
+.env.local
+.env
+
 # exclude plugin configuration. Might be useful to prevent some plugin from exposing sensitive data
 .obsidian/plugins
 # exclude workspace cache
