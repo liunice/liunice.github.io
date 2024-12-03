@@ -3,11 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "replace-config": "node replace-config.js",
-    "build": "pnpm replace-config && hexo generate --config _config.yml,_config.next.temp.yml",
+    "build": "hexo generate --config _config.yml,_config.prod.yml",
     "clean": "hexo clean",
-    "deploy": "pnpm replace-config && hexo deploy --config _config.yml,_config.next.temp.yml",
-    "server": "pnpm replace-config && hexo server --config _config.yml,_config.next.temp.yml"
+    "deploy": "hexo deploy --config _config.yml,_config.prod.yml",
+    "server": "hexo server --config _config.yml,_config.dev.yml"
   },
   "hexo": {
     "version": "7.3.0"

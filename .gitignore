@@ -7,8 +7,10 @@ public/
 .deploy*/
 _multiconfig.yml
 _config.next.temp.yml
+_config.dev.yml
 .env.local
 .env
+replace-config.js
 
 # exclude plugin configuration. Might be useful to prevent some plugin from exposing sensitive data
 .obsidian/plugins

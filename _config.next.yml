@@ -602,7 +602,7 @@ changyan:
 # Valine
 # For more information: https://valine.js.org, https://github.com/xCss/Valine
 valine:
-  enable: true
+  enable: false
   appid: ${VALINE_APP_ID}
   appkey: ${VALINE_APP_KEY}
   notify: true # Mail notifier
@@ -617,6 +617,17 @@ valine:
   recordIP: true # Whether to record the commenter IP
   serverURLs: https://leancloud.api.liunice.cn # When the custom domain name is enabled, fill it in here (it will be detected automatically by default, no need to fill in)
   #post_meta_order: 0
+
+# Utterances
+# For more information: https://utteranc.es
+utterances:
+  enable: true
+  repo: liunice/comments # Github repository name
+  # Available values: pathname | url | title | og:title
+  issue_term: pathname
+  # Available values: github-light | github-dark | preferred-color-scheme | github-dark-orange | icy-dark | dark-blue | photon-dark | boxy-light
+  theme: github-light
+
 
 # LiveRe comments system
 # You can get your uid from https://livere.com/insight/myCode (General web site)
